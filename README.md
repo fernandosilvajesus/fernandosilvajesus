@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá, meu nome é Fernando e atualmente estou dedicando meu tempo para estudar e me tornar um desenvolvedor back-end especializado em Node.js. Busco constantemente aprimorar meus conhecimentos e habilidades na área de programação.<br>Além disso, tenho grande paixão por aprender e compartilhar conhecimento com outras pessoas. Sempre que aprendo algo novo, gosto de estudar e entender bem o assunto para poder explicá-lo de maneira clara e simples para outras pessoas.
+Olá, meu nome é Fernando e atualmente estou dedicando meu tempo para estudar e me tornar um desenvolvedor back-end especializado em Java. Busco constantemente aprimorar meus conhecimentos e habilidades na área de programação.<br>Além disso, tenho grande paixão por aprender e compartilhar conhecimento com outras pessoas. Sempre que aprendo algo novo, gosto de estudar e entender bem o assunto para poder explicá-lo de maneira clara e simples para outras pessoas.
 
 
 # 💻 Tech Stack:
