@@ -1,6 +1,8 @@
 # 💫 About Me:
-Olá, meu nome é Fernando e atualmente estou dedicando meu tempo para estudar e me especializar em front-end especializado em React. Busco constantemente aprimorar meus conhecimentos e habilidades na área de programação. Além disso, tenho grande paixão por aprender e compartilhar conhecimento com outras pessoas. Sempre que aprendo algo novo, gosto de estudar e entender bem o assunto para poder explicá-lo de maneira clara e simples para outras pessoas.
+Olá, meu nome é Fernando, Desenvolvedor ReactJS  na HI SISTEMAS DE SEGURANÇA LTDA, com foco no FrontEnd da página corporativa. Proficiente em documentar alterações de tarefas em User Histories, acompanhar e registrar informações e metas ao final de cada sprint, além de participar ativamente das Daily Scrums.
 
+Experiência profissional sólida em Design Responsivo Web e Controle de Versionamento (Git). 
+Destaco minha atuação eficaz com Metodologia Ágil Scrum, garantindo entregas consistentes e alinhadas às expectativas.
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
