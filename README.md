@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá, meu nome é Fernando, Desenvolvedor ReactJS  na HI SISTEMAS DE SEGURANÇA LTDA, com foco no FrontEnd da página corporativa. Proficiente em documentar alterações de tarefas em User Histories, acompanhar e registrar informações e metas ao final de cada sprint, além de participar ativamente das Daily Scrums.
+Olá, meu nome é Fernando Silva, sou um Desenvolvedor Frontend altamente qualificado com experiência sólida em React, HTML5, CSS3 e JavaScript (ES6/ES7). Proficiente em construção de interfaces web modernas, utilizando frameworks como ReactJS, Redux. Experiência em otimização de desempenho do lado do cliente, integração com APIs e versionamento de código (Git). Familiarizado com conceitos de programação, estruturas de dados e práticas de desenvolvimento ágil. Sendo capaz de trabalhar efetivamente em qualquer ambiente.
 
 Experiência profissional sólida em Design Responsivo Web e Controle de Versionamento (Git). 
 Destaco minha atuação eficaz com Metodologia Ágil Scrum, garantindo entregas consistentes e alinhadas às expectativas.
