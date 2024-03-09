@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/fernandosilvajesus/fernandosilvajesus/main/Fernando%20Silva.png" />
+
 # 💫 About Me:
 Olá, meu nome é Fernando Silva, sou um Desenvolvedor Frontend altamente qualificado com experiência sólida em React, HTML5, CSS3 e JavaScript (ES6/ES7+). Proficiente em construção de interfaces web modernas, utilizando frameworks como ReactJS, Redux. Experiência em otimização de desempenho do lado do cliente, integração com APIs e versionamento de código (Git). Familiarizado com conceitos de programação, estruturas de dados e práticas de desenvolvimento ágil. Sendo capaz de trabalhar efetivamente em qualquer ambiente.
 
