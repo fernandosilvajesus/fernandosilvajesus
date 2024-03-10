@@ -10,10 +10,11 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
 
-<h3 align="center">❤️Olá! 👋 Sou um desenvolvedor front-end apaixonado por criar experiências incríveis para usuários. Tenho experiência em ReactJS, VueJS e construção de sistemas em JavaScript puro. Trabalho com Api e APIRest e tenho conhecimento em UI e UX.</h3>&nbsp;
-
+<p align="center">❤️ Ola! Sou um desenvolvedor Frontend especializado em React e em um relacionamento com Vue.js, apaixonado por criar interfaces de usuário incríveis. Meu combustível diário é café, amo aplicar metodologia Bem e estruturar meus projetos e minha abordagem é centrada em entregas contínuas. Busco constantemente a excelência no desenvolvimento frontend, explorando novas possibilidades e garantindo resultados de alta qualidade em cada entrega.  
+</p>&nbsp;
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=fernandosilvajesus&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
