@@ -10,3 +10,22 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
 
+
+# Fernando Silva - Desenvolvedor Front-End
+
+Olá! 👋 Sou um desenvolvedor front-end apaixonado por criar experiências incríveis para usuários. Tenho experiência em ReactJS, VueJS e construção de sistemas em JavaScript puro. 
+Trabalho com Api e APIRest, tendo conhecimento em UI e UX.
+
+## Sobre Mim
+
+- 👨‍💻 Desenvolvedor Front-End
+- 🚀 Trabalho com ReactJS, VueJS e JavaScript puro
+- 🌐 Experiência em construção de sistemas web
+- 🎨 Foco em UI/UX
+
+## Habilidades
+
+- 💻 **Linguagens de Programação:** JavaScript
+- 📚 **Bibliotecas/Frameworks:** ReactJS, VueJS
+- 🛠️ **Outras Ferramentas:** Git, Webpack, Babel
+- 🎨 **Conhecimento em UI/UX Design:** Foco em criar interfaces intuitivas e agradáveis
