@@ -1,13 +1,15 @@
+<img src="https://raw.githubusercontent.com/cristian-sbardelotto/cristian-sbardelotto/main/.github/assets/lineBar.png" />
 <img src="https://raw.githubusercontent.com/fernandosilvajesus/fernandosilvajesus/main/Fernando%20Silva.png" />
-
+<img src="https://raw.githubusercontent.com/cristian-sbardelotto/cristian-sbardelotto/main/.github/assets/lineBar.png" />
 <p align="center">❤️ Ola! Sou um desenvolvedor Frontend especializado em React e em um relacionamento com Vue.js, apaixonado por criar interfaces de usuário incríveis. Meu combustível diário é café, amo aplicar metodologia Bem e estruturar meus projetos e minha abordagem é centrada em entregas contínuas. Busco constantemente a excelência no desenvolvimento frontend, explorando novas possibilidades e garantindo resultados de alta qualidade em cada entrega.  
 </p>&nbsp;
-
+<img src="https://raw.githubusercontent.com/cristian-sbardelotto/cristian-sbardelotto/main/.github/assets/lineBar.png" />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fernandosilvajesus&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandosilvajesus&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+<img src="https://raw.githubusercontent.com/cristian-sbardelotto/cristian-sbardelotto/main/.github/assets/lineBar.png" />
 
 ## My Skills
 
