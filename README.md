@@ -1,7 +1,6 @@
 <img src="https://raw.githubusercontent.com/cristian-sbardelotto/cristian-sbardelotto/main/.github/assets/lineBar.png" />
 <img src="https://raw.githubusercontent.com/fernandosilvajesus/fernandosilvajesus/main/banner-perfil.png" />
-<img src="https://raw.githubusercontent.com/cristian-sbardelotto/cristian-sbardelotto/main/.github/assets/lineBar.png" />
-<p align="center">❤️ Ola! Sou um desenvolvedor Frontend especializado em React e em um relacionamento com Vue.js, apaixonado por criar interfaces de usuário incríveis. Meu combustível diário é café, amo aplicar metodologia Bem e estruturar meus projetos e minha abordagem é centrada em entregas contínuas. Busco constantemente a excelência no desenvolvimento frontend, explorando novas possibilidades e garantindo resultados de alta qualidade em cada entrega.  
+<p align="left">❤️ Sou um desenvolvedor Python com ampla experiência em desenvolvimento de automação de processos utilizando Python. Tenho habilidades na construção de documentos automatizados, relatórios, PDFs, e na criação de APIs utilizando FASTAPI. Além disso, possuo experiência em raspagem de dados, integrações com bancos de dados SQL e NoSQL, e no desenvolvimento de aplicações web com React e VueJS, incluindo manutenção, construção de novos layouts e consumo de APIs. 
 </p>&nbsp;
 <img src="https://raw.githubusercontent.com/cristian-sbardelotto/cristian-sbardelotto/main/.github/assets/lineBar.png" />
 
