@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/cristian-sbardelotto/cristian-sbardelotto/main/.github/assets/lineBar.png" />
-<img src="https://raw.githubusercontent.com/fernandosilvajesus/fernandosilvajesus/main/banner-perfil.png" />
 <p align="left">❤️ Sou um desenvolvedor Python com ampla experiência em desenvolvimento de automação de processos utilizando Python. Tenho habilidades na construção de documentos automatizados, relatórios, PDFs, e na criação de APIs utilizando FASTAPI. Além disso, possuo experiência em raspagem de dados, integrações com bancos de dados SQL e NoSQL, e no desenvolvimento de aplicações web com React e VueJS, incluindo manutenção, construção de novos layouts e consumo de APIs. 
 </p>&nbsp;
 <img src="https://raw.githubusercontent.com/cristian-sbardelotto/cristian-sbardelotto/main/.github/assets/lineBar.png" />
@@ -21,6 +19,3 @@
 <a href="https://www.linkedin.com/in/fernando-silva-de-jesus/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 
 </div>
-
-<img src="https://raw.githubusercontent.com/fernandosilvajesus/fernandosilvajesus/08b25636e61c456d7c4fcbaf876ea71fae895d1b/wave-haikei%20(3).svg" />
-
