@@ -13,12 +13,7 @@ Minhas experiências incluem:
 Esses projetos resultaram em ganhos concretos, como reduzir processos de 1h para 15min, automatizar triagem de candidatos de 1000 → 5000/mês e organizar dados complexos em minutos. Meu foco é entregar soluções **eficientes, confiáveis e que realmente impactam o negócio**.
 </p>
 
-<img src="https://raw.githubusercontent.com/cristian-sbardelotto/cristian-sbardelotto/main/.github/assets/lineBar.png" />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fernandosilvajesus&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandosilvajesus&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 <img src="https://raw.githubusercontent.com/cristian-sbardelotto/cristian-sbardelotto/main/.github/assets/lineBar.png" />
 
